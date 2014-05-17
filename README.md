@@ -10,7 +10,7 @@ npm install
 grunt
 ```
 
-Then navigate to [localhost:9000/examples](localhost:9000/examples)
+Then navigate to [localhost:9000/examples](http://localhost:9000/examples)
 
 If you want to update the build in ```dist/```
 
